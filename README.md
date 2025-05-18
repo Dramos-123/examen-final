@@ -25,7 +25,7 @@ Este proyecto implementa un Árbol AVL en Java que permite insertar valores ente
 ```
 
 ## Video Explicativo
-[Enlace a YouTube](https://www.youtube.com/)
+[Enlace a YouTube](https://youtu.be/qllMhuNy2HE?si=6MTEMrCyvJ8dkmbo) 
 
 ## Clases
 - `Node`: Define los nodos del árbol.
